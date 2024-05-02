@@ -1,0 +1,19 @@
+/* Estilos para el cuerpo de la página */
+body {
+  background-color: cadetblue; /* Color de fondo */
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif; /* Fuente */
+}
+
+/* Estilos para el botón */
+.boton {
+  background-color: deeppink; /* Color de fondo */
+  border: none; /* Sin borde */
+  border-radius: 5px; /* Bordes redondeados */
+  padding: 5px; /* Espaciado interno */
+  color: white; /* Color del texto */
+}
+
+/* Estilos cuando se pasa el ratón sobre el botón */
+.boton:hover {
+  background-color: rgb(196, 27, 117); /* Cambio de color de fondo */
+}
